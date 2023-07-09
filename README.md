@@ -1,11 +1,4 @@
-# MGPR-GAN
-multi-category GPR generative adversarial networks (MGPR-GAN) model
 
-MGPR-GAN.ipynb :  Souce code of GPR-GAN by pytorch.
-ADA_methods.py : Optional data augmentation algorithms in the ADA module.
-requirements.txt : Environment configuration file.
-
-A Ground Penetrating Radar Data Generation Network with Multiple Categories of Defects
 
 # Information about this code
 Author: Hongqiang Xiong
